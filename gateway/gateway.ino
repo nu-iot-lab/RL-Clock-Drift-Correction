@@ -1,4 +1,6 @@
-// Include Libraries
+// BY NU IOT LAB //
+// GPL-3.0 license //
+
 #include <esp_now.h>
 #include <WiFi.h>
 #include <esp_wifi.h>
